@@ -1,0 +1,83 @@
+{
+  "version": "3.109.36125.0",
+  "course_id": "5y98JvM8Fo9_course_id",
+  "title": "Family Migration",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "New Users"
+    },
+    {
+      "title": "T&C"
+    },
+    {
+      "title": "Migration"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5pDuMcbqK2w",
+      "title": "Start",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6Jm7CI2FN5g",
+      "title": "Email",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "67ko0e0155k",
+      "title": "Email ",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "5fQvqcjXuXY",
+      "title": "Get Started",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "5shySaDGPXI",
+      "title": "Login",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "6pISOw4QpOZ",
+      "title": "Enter Address",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "5sG5d5Tlnvm",
+      "title": "Skipped",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "6qZSc3pVDsk",
+      "title": "Skipped (2)",
+      "scene_index": "3.6"
+    },
+    {
+      "id": "6OmfiUPI8K3",
+      "title": "Address Continued",
+      "scene_index": "3.7"
+    },
+    {
+      "id": "5XgOo2Shp6W",
+      "title": "Home Hub",
+      "scene_index": "3.8"
+    },
+    {
+      "id": "6Rye77nqv7T",
+      "title": "Pick Location",
+      "scene_index": "3.9"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 560
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
